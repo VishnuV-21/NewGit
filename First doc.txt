@@ -8,3 +8,5 @@ Hey vishnu this is me the dev3
 >> the above line is added nu me (dev3)
 
 Hi team this is vishnu adding a new line of code to the doc 
+
+THis is how the git with eclipse works
